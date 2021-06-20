@@ -1,3 +1,3 @@
 # .github
 
-[**@Zpecies**](https://github.com/zpecies) default community health files
+[**@zpecies**](https://github.com/zpecies "Zpecies") default community health files
