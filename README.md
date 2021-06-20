@@ -1,2 +1,2 @@
 # .github
-@Zpecies default community health files
+@zpecies default community health files
