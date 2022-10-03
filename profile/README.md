@@ -1,1 +1,1 @@
-![Artificial mind](artificial-mind.png "AI-generated image")
+![Artificial mind](/profile/artificial-mind.png "AI-generated image")
